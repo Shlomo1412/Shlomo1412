@@ -25,8 +25,7 @@
 
 - 🧠 I love building tools and mods that improve the Minecraft experience  
 - 🎯 Focused on performance, clean UI, and player-centric features  
-- 🛠 Skilled in Java, Kotlin, C#, and WPF – and always learning more!  
-- 🌍 Based in Israel 🇮🇱  
+- 🛠 Skilled in Java, C#, and WPF – and always learning more!  
 
 <br>
 
