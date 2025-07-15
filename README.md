@@ -1,11 +1,9 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Shlomo</h1>
-  <h3 align="center">A creative mod developer & tool builder for Minecraft</h3>
+  <h1>Hi 👋, I'm Shlomo</h1>
+  <h3>A creative mod developer & tool builder for Minecraft</h3>
 
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Shlomo1412&theme=onedark&column=5&rank=-C,-B&no-frame=true" alt="Shlomo1412 trophies" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Shlomo1412&theme=onedark&column=5&rank=-C,-B&no-frame=true" alt="Shlomo1412 trophies" />
   </p>
 
   <br>
@@ -20,6 +18,15 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
+
+<br>
+
+## 👨‍💻 About Me
+
+- 🧠 I love building tools and mods that improve the Minecraft experience  
+- 🎯 Focused on performance, clean UI, and player-centric features  
+- 🛠 Skilled in Java, Kotlin, C#, and WPF – and always learning more!  
+- 🌍 Based in Israel 🇮🇱  
 
 <br>
 
@@ -39,4 +46,8 @@
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shlomo1412&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlomo1412&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlomo1412&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </div>
+
+<br>
