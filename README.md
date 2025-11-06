@@ -4,8 +4,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I'm a **freelance developer**, currently working with [**Torahlive**](https://torahlive.com) —  
-> *A platform aimed at providing enriching educational experiences.*
+I'm a **freelance developer**, currently working with [**Torahlive**](https://torahlive.com) - A platform aimed at providing enriching educational experiences.
 
 There, I create **2D educational games** that make learning fun and interactive ✨  
 
